@@ -21,7 +21,7 @@ ___
 - Formik 
 - React Route v6
 - React-Redux
-- React-Thunk
+- React-Thunk <br>
 Также использовался препроцессор SCSS.
 
 ### Просмотр 
